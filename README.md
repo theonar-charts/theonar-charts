@@ -22,14 +22,12 @@
 > #### Charts
 
 > Billie Eilish - Birds of a Feather
-> Dificulty:
-- Expert
-
-> instruments:
-- Guitar
-- Bass
-- Rythm
-- Keyboard
+| Instruments | Difficulty |
+| :------------ | :------------ |
+| Guitar | Expert |
+| Bass | Expert |
+| Rythm | Expert |
+| Keyboard | Expert |
 
 > #### Custom
 ###### Colors:
