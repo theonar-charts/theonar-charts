@@ -32,15 +32,17 @@
 
 > #### Custom
 ###### Colors:
-- FavBlue (New Add)
+- FavRed (New Add)
+- FavBlue
 - FavGreen
-- FavYellow (New Add)
-- FavOrange (New Add)
+- FavYellow
+- FavOrange
 - FavCyan
 
 >#### Highways:
-- BlueLines 
+- RedLines (New Add)
+- BlueLines
 - GreenLines
-- CyanLines (New Add)
-- OrangeLines (New Add)
-- YellowLines (New Add)
+- CyanLines
+- OrangeLines
+- YellowLines
